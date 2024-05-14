@@ -23,6 +23,7 @@
         "doctrine/dbal": "^3.0",
         "elasticsearch/elasticsearch": "^8.10",
         "enshrined/svg-sanitize": "^0.16.0",
+        "google-gemini-php/laravel": "^1.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "intervention/image": "^2.4",
         "intervention/imagecache": "^2.5.2",
@@ -46,7 +47,7 @@
         "spatie/laravel-sitemap": "^6.2"
     },
     "require-dev": {
-        "bagisto/laravel-datafaker": "dev-master",
+        "bagisto/laravel-datafaker": "^1.5",
         "barryvdh/laravel-debugbar": "^3.8",
         "fakerphp/faker": "^1.9.1",
         "laravel/pint": "^1.8",
